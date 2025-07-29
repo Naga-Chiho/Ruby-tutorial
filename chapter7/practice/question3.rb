@@ -4,3 +4,6 @@ def dice
 end
 
 puts dice
+
+# 初期値いらない
+# x =もいらない
