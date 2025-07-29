@@ -7,3 +7,5 @@ a.each do |i|
         puts sum
     end
 end
+
+

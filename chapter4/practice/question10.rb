@@ -7,3 +7,13 @@ a.each do |i|
         puts sum
     end
 end
+
+
+# 修正
+a = [1,2,3]
+sum = 0
+
+a.each do |i|
+    sum = sum + i
+end
+puts sum
