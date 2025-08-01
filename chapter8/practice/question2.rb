@@ -1,5 +1,1 @@
-# オブジェクト作成
-p String.new
-
-
-
+p Hash.new

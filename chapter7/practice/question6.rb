@@ -7,3 +7,5 @@ end
 puts price(item: "コーヒー")
 puts price(item: "カフェラテ")
 
+# キーワード引数っていう
+
