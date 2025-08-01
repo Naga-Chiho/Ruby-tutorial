@@ -13,3 +13,6 @@ puts item.name
 
 item = Item.new("スコーン")
 puts item.name
+
+# Q5との差別化
+# 最初に呼び出される

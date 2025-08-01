@@ -8,12 +8,12 @@ class Item
 end
 
 class Food < Item
-    def name
-        @name
-    end
-    def name=(text)
-        @name = text
-    end
+    # def name
+    #     @name
+    # end
+    # def name=(text)
+    #     @name = text
+    # end
 end
 
 food =Food.new
